@@ -1,0 +1,53 @@
+.UpdateCompany {
+  min-height: 80.9vh;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(53, 54, 58, 0.24821696696696693) 97%
+  );
+}
+#UpdateCompany-label {
+  text-align: left;
+  padding-left: 1%;
+}
+
+.form-group {
+  margin-bottom: 1vh;
+}
+#UpdateCompany-filed {
+  padding-right: 5vh;
+  width: 24vh;
+}
+
+#UpdateCompany-return {
+  left: 0.5vw;
+  position: absolute;
+  top: 60px;
+  background-color: rgb(225, 49, 18);
+  border: none;
+}
+.UpdateCompany-title {
+  margin-top: 1vh;
+  margin-bottom: 3vh;
+}
+.UpdateCompany-form {
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+
+  min-height: 200px;
+  width: 60vw;
+  margin: 100px auto;
+  border-radius: 5px;
+  padding: 100px 0;
+  background: white;
+}
+
+#UpdateCompany-add {
+  border: none;
+}
+.UpdateCompany-seperator {
+  height: 2vh;
+}

@@ -1,0 +1,38 @@
+.AllCoupons {
+  min-height: 100vh;
+  background-color: whitesmoke;
+}
+
+.AllCoupon-table-th {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+#AllCoupons-table {
+  width: 98vw;
+  table-layout: fixed;
+  margin-left: 0.5vh;
+  box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.1);
+}
+
+.AllCoupons-td {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+#AllCoupons-image-td {
+  background-size: 100% 100%;
+  background-image: url(../../../../../assets/images/coupon.png);
+  width: 3.5vw;
+  height: 4.5vh;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.AllCoupons-image-div {
+  width: 3.5vw;
+  height: 4.5vh;
+  background-size: 100% 100%;
+  margin-left: auto;
+  margin-right: auto;
+}

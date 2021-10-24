@@ -1,0 +1,8 @@
+.Footer {
+  bottom: 0%;
+  width: 100%;
+  position: relative;
+  background-color: rgba(33, 37, 41, 255);
+  color: aliceblue;
+  box-shadow: 1px 0px 5px rgb(0, 0, 0);
+}

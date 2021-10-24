@@ -1,0 +1,40 @@
+.CompanyCoupons {
+  min-height: 91.5vh;
+  background-color: whitesmoke;
+}
+
+.CompanyCoupons-table-th {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+#CompanyCoupons-table {
+  margin-left: 15vw;
+  width: 81vw;
+  table-layout: fixed;
+
+  box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.1);
+}
+
+.CompanyCoupons-td {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+#CompanyCoupons-image-td {
+  background-size: 100% 100%;
+  background-image: url(../../../../../assets/images/coupon.png);
+  width: 3.5vw;
+  height: 4.5vh;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.CompanyCoupons-image-div {
+  width: 3.5vw;
+  height: 4.5vh;
+  background-size: 100% 100%;
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -1,0 +1,22 @@
+.AdminCustomers {
+  min-height: 91.5vh;
+  background-color: whitesmoke;
+}
+
+.AdminCustomers-table-th {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+#AdminCustomers-table {
+  margin-left: 15vw;
+  width: 81vw;
+  table-layout: fixed;
+  box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.1);
+}
+
+.AdminCustomers-td {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
